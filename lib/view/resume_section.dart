@@ -123,7 +123,7 @@ class ResumeSection extends StatelessWidget {
               const RoundedRectangleBorder(
             borderRadius: BorderRadius.all(Radius.circular(5)),
           ))),
-      onPressed: () => launchUrl(Uri.parse("https://ekanaz.github.io/EKANAS/")),
+      onPressed: () => launchUrl(Uri.parse("https://drive.google.com/file/d/15MycgOQ1bagnvMjxIqjD-l8GsQQKDOI3/view?usp=share_link")),
       child: Row(
         mainAxisSize: MainAxisSize.min,
         children: const [
