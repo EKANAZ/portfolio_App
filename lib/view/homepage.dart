@@ -9,7 +9,7 @@ import 'package:ek_anas/view/resume_section.dart';
 
 import 'package:flutter/material.dart';
 
-import '../widgets/text_widgets.dart';
+import 'widgets/text_widgets.dart';
 import 'Features_section.dart';
 
 class HomePage extends StatelessWidget {

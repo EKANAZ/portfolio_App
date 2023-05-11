@@ -1,9 +1,9 @@
 
-import 'package:ek_anas/widgets/text_widgets.dart';
+import 'package:ek_anas/view/widgets/text_widgets.dart';
 import 'package:flutter/material.dart';
 import 'package:google_fonts/google_fonts.dart';
 
-import '../core/constants.dart';
+import '../../core/constants.dart';
 
 class EducationCard extends StatelessWidget {
   final String title;

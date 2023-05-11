@@ -2,7 +2,7 @@
 import 'package:flutter/material.dart';
 
 
-import '../widgets/button_widgets.dart';
+import 'widgets/button_widgets.dart';
 
 class ButtonSection extends StatelessWidget {
   const ButtonSection({

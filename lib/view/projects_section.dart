@@ -1,5 +1,5 @@
 import 'package:ek_anas/core/constants.dart';
-import 'package:ek_anas/widgets/text_widgets.dart';
+import 'package:ek_anas/view/widgets/text_widgets.dart';
 import 'package:flutter/material.dart';
 import 'package:url_launcher/url_launcher.dart';
 
